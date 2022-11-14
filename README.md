@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ucosmin194
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Python, OOP, Django, Java
+- 🌱 I've finished my Python course from SDA, and currently working as a software developer
+-    Currently learning Java and working with it on daily basis
 - 💞️ I’m looking to collaborate on Diverse Projects
 - 📫 How to reach me ucosmin194@gmail.com
 
