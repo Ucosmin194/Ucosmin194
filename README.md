@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ucosmin194 - Ungureanu Cosmin-Constantin
 - 👀 I’m interested in software development, especially Python and Java
 - 🌱 I've finished my Python course from SDA, and currently working as a software developer
--    Currently learning Java and working with it on daily basis
+-    Currently working with Java on daily basis
 - 💞️ I’m looking to collaborate on Diverse Projects
 - 📫 How to reach me ucosmin194@gmail.com
 
